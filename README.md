@@ -1,16 +1,17 @@
-[x] Create New Todo Form.
-[x] Call function when form click on submitted.
-[x] Create a empty string property in state. Because when form loaded there is nothing in input box.
-[x] When input changes, update the state.
-    [x] Check on the console
-[x] Create empty array called todos on the state
-[x] Add a new todo into the todos array
-[x] Show the todos in list 
-[x] Assign to empty string to input
-[x] Mark it which todo is done
-[x] Line through if todo is done
-[x] Add button to remove todo
-[x] Add button to mark all todos as done
-[x] Create NewTodoForm Component
-[x] Create TodoList Component
-[x] Create TodoItem Component
+## To Do..
+
+1. Create New Todo Form.
+2. Call function when form click on submitted.
+3. Create a empty string property in state. Because when form loaded there is nothing in input box.
+4. When input changes, update the state.
+5. Create empty array called todos on the state
+6. Add a new todo into the todos array
+7. Show the todos in list 
+8. Assign to empty string to input
+9. Mark it which todo is done
+10. Line through if todo is done
+11. Add button to remove todo
+12. Add button to mark all todos as done
+13. Create NewTodoForm Component
+14. Create TodoList Component
+15. Create TodoItem Component
