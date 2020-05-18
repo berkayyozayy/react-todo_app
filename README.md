@@ -1,15 +1,15 @@
-## Todo List Application
+# Todo List Application
 
-# The goal of Project
+## The goal of Project
 This project contains all of the tasks that you need to complete on a given day.
 
-# How to Run
+## How to Run
 You can follow the Create React App steps to install in your local area.
 
 ** Step 1** `npm install` <br />
 ** Step 2** `npm start`
 
-# To Do List Project Algorithm
+## To Do List Project Algorithm
 1. Create New Todo Form.
 2. Call function when form click on submitted.
 3. Create a empty string property in state. Because when form loaded there is nothing in input box.
